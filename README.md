@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![](https://komarev.com/ghpvc/?username=elisabethmarie&color=orange)
+
 <!--
 **elisabethmarie/elisabethmarie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
